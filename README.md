@@ -5,11 +5,17 @@ The purpose of this project is to help Steve, a recent finance graduate, analyze
 ## Results
 ### Analysis of Findings
 It is blatantly obvious from the overview images below that stock performance in 2017 was much better than that in 2018. Perhaps there was a crash or dip in the market in 2018 in this scenario. Almost all returns were positive in 2017 except for one. TERP appears to be the least successful stock ticker being the only one with a negative outcome in 2017 and continuing to stay negative in 2018. 
+
 ![2018_Stock_Overview](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/2018_Stock_Overview.png)
 ![2017_Stock_Overview](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/2017_Stock_Overview.png)
+
 Based on the findings, the next step for Steve may be to advise his parents to invest in ENPH or RUN as those were the only two tickers with a continuous positive return from 2017 through 2018. 
 
 Another aspect that is to be expected but important to note is the fact that the run times vary every time you run the analysis on the stocks. We are working with a machine here and lag times are to be expected however the variance between times is so miniscule I do not find it to be a significant number. As will be discussed below the execution time is also slightly greater when using the refactored code compared to the original however, again I do not find the difference to be of great significance. 
+
+![VBA_Challenge_2017](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2018](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 ## Summary
 ### Refactoring Code 
   The purpose of refactoring code in general is to help improve the efficiency of said code. Many times, the first code written isn’t the most efficient, pretty, or concise. Refactoring helps to hopefully create the most effective code possible. The most important thing to note in refactoring is that while the code may be more organized, the function of it stays the same. Refactoring simply changes the structure of the code not its behavior. And just like anything else it has pros and cons. 
