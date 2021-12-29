@@ -5,8 +5,8 @@ The purpose of this project is to help Steve, a recent finance graduate, analyze
 ## Results
 ### Analysis of Findings
 It is blatantly obvious from the overview images below that stock performance in 2017 was much better than that in 2018. Perhaps there was a crash or dip in the market in 2018 in this scenario. Almost all returns were positive in 2017 except for one. TERP appears to be the least successful stock ticker being the only one with a negative outcome in 2017 and continuing to stay negative in 2018. 
-![2018_Stock_Overview](2018_Stock_Overview.png)
-![2017_Stock_Overview](2017_Stock_Overview.png)
+![2018_Stock_Overview](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/2018_Stock_Overview.png)
+![2017_Stock_Overview](https://github.com/CristinaCod/stock-analysis/blob/main/Resources/2017_Stock_Overview.png)
 Based on the findings, the next step for Steve may be to advise his parents to invest in ENPH or RUN as those were the only two tickers with a continuous positive return from 2017 through 2018. 
 
 Another aspect that is to be expected but important to note is the fact that the run times vary every time you run the analysis on the stocks. We are working with a machine here and lag times are to be expected however the variance between times is so miniscule I do not find it to be a significant number. As will be discussed below the execution time is also slightly greater when using the refactored code compared to the original however, again I do not find the difference to be of great significance. 
